@@ -28,5 +28,7 @@
 <input type="text" name="count" id="c">
 <input type="button" id="d1">
 <div id="r1"></div>
+<div id="r2"></div>
+<h2>asdasdasdasdasdsadsadad</h2>
 </body>
 </html>
